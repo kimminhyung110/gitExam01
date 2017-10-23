@@ -7,9 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<h1>gitTest01.jsp문서입니다..</h1>
-<h2>branch01에서 작업하고 있어요!!!!</h2>
+<h1>branch01문서에서 무언가 작업하고 있어요~~~</h1>
 
 
 
